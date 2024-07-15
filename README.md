@@ -2,18 +2,24 @@
 
 # Evolução de Aprendizagem
 
-## Módulo 1
+## Módulo 2
 
- - Setup de ferramentas
- - Git Básico
- - NodeJS, NPM e Package.json
- - Variáveis
- - Introdução ao TypeScript
- - Condicionais e Truthiness
- - Arrays e Loops
- - Objetos
 
-## O que eu já sei sobre os assuntos que foram abordados nesse módulo?
+Conteúdos técnicos
+
+- Funções
+- Tipos de dados
+- Tipos Utilitários
+- Tipos Utilitários
+- Métodos de Arrays
+
+  Conteúdos de Carreira
+
+ - Gestão de tempo
+- Postura Profissional
+- LinkedIn: primeiros passo
+
+## 1 - O que eu já sei sobre os assuntos que foram abordados no módulo 1?
 
 
 - No Setup de ferramentas, já sei configurar um ambiente de desenvolvimento básico. e isso envolve e instalar o Visual Studio Code, configurar a linguagem de programação (como 
@@ -32,7 +38,7 @@
   projetos grandes.
 - Métodos de strings são maneiras de manipular e trabalhar com texto em programação. 
 
-## O que quero aprender nesse módulo?
+## 2 - O que quero aprender nesse módulo?
 
 - Como posso desenvolver melhor minhas softs skills e hard skills, e aplicá-las em meu dia a dia e obter êxito no mercado de trabalho
 - Quero aprender como direcionar meu perfil no LinkedIn para as áreas de interesse, e como ele pode me ajudar a encontrar as melhores oportunidades de emprego.
@@ -40,15 +46,14 @@
 - Quero melhorar ainda mais minha lógica de programação, a forma de pensar na resolução dos problemas propostos, e absorver ainda mais os conteúdos técnicos.
 - Quero aprender sobre as possibiidades de projetos que posso executar, a partir desses conhecimentos básicos que já venho obtendo nesse início de curso.
 
-## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+  
 
-- Aprendi como configurar o vs code, o node js, o terminal, o git, e os conceitos básicos da programação
-- Aprendi os primeiros passos sobre como usar o github e a importância dele no meu processo de me tornar um desenvolvedor, e até para o futuro profissional de ter documentado as 
-  minhas ações.
-- Aprendi sobre soft skills, e enxergar pontos positivos e fortes em mim que eu não enxergava.
-- Conheci mais sobre o linkedin e sua importância, e que usar de forma profissional, pode render bons frutos.
-- Aprendi como usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas.
-- Aprendi conceitos básicos de strings, como concatenar e dividir texto.
-- Aprendi conceitos básicos de arrays, como adicionar e remover itens de uma lista.
-- Pude fazer os exercícios propostos nas aulas pra consolidar o conhecimento.
+## Minha evolução: o que aprendi sobre os assuntos que foram abordados no módulo 2?
+
+
+
+
+
+
+
 

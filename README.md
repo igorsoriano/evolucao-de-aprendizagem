@@ -50,6 +50,17 @@ Conteúdos técnicos
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados no módulo 2?
 
+No módulo 2, aprendi o que são funções, e como elas ajudam a organizar o código e fazer coisas repetidas sem precisar escrever tudo de novo.
+Dentro de funções aprendi sobre Parâmetros e Argumentos, sobre como as funções podem retornar um valor o "return".
+Aprendi que Tipos de dados são como categorias para as coisas que a gente usa num programa. Podendo ser números, textos, verdade ou mentira (como “sim” ou “não”), ou até 
+coleções de coisas.
+Estive em contato também com os Tipos Utilitários, que são ferramentas que ajudam a mexer e modificar os tipos de dados de uma forma mais prática.
+Usei métodos de arrays que são funções embutidas nos arrays e que facilitam a manipulação e o processamento de dados.
+
+E nas aulas de carreira pude aprender mais sobre gestão de tempo e como o uso eficiente do tempo é crucial para o sucesso profissional.
+Dentro disso, pude aprender mais sobre gerenciamento de projetos, métodos ágeis, prazos e deadlines, produtividade pessoal, como o foco e concentração são importantes para maximizar a produtividade, técnicas e ferramentas para nos ajudar a gerenciar o tempo de forma mais eficiente.
+Pude aprender também sobre o Linkedin e como seu uso pode impactar nas oportunidades profissionais, manter um perfil organizado, com informações atualizadas, experiências profissionais e os projetos que estou participando.
+E como o Linkedin pode me colocar em contato com pessoas da minha área de interesse para trocar experiências, estar atento as notícias e aos movimentos no mercado de trabalho e buscar oportunidades de ingressar no mercado de trabalho.
 
 
 
